@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - [Github](https://github.com/Thomas-Bezille/FrontEnd-Mentor_Blog_preview_card)
-- [Live]()
+- [Live](https://front-end-mentor-blog-preview-card-gamma.vercel.app/)
 
 ## My process
 
